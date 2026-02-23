@@ -64,7 +64,7 @@ pip install tk
 Run the game using:
 
 ```
-python connect4.py
+python Connect4.py
 ```
 
 - The GUI window will open.
